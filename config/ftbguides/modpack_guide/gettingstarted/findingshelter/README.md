@@ -1,8 +1,8 @@
-# Seeking somewhere to sleep!
+# 寻找落脚的地方！
 
-Now you need somewhere to sleep!
+现在你需要找个地方睡觉了！
 
-Players have access to several methods of setting their spawn point, or creating shelter for the night.
+玩家可以使用几种不同的方法来设置出生点，或为夜晚创造庇护所。
 
 ![A "Small" and "Mega" tepe in the hot desert](tepes.png)
 
