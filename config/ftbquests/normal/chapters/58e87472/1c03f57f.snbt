@@ -1,8 +1,8 @@
 {
-	title: "Where'd He Go?",
+	title: "他去哪了？",
 	x: -9.5d,
 	y: -1.0d,
-	description: "Oh, this way!",
+	description: "哦，这边走！",
 	text: [
 		"Signatures will hold an XYZ location on first Right-Click and create a Rift linked to that location when Right-Clicking afterwards.",
 		"",
