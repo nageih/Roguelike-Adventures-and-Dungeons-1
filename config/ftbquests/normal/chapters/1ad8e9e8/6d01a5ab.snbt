@@ -2,7 +2,7 @@
 	title: "孢子",
 	x: 3.0d,
 	y: -1.5d,
-	description: "他们很亢奋！",
+	description: "它们很亢奋！",
 	text: [
 		"获得孢子用于活化器。"
 	],
