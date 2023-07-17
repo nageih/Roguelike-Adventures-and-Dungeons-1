@@ -2,7 +2,7 @@
 	title: "Chunky Chunks",
 	x: 0.0d,
 	y: 1.5d,
-	description: "这是相当多的...",
+	description: "这是相当多的……",
 	text: [
 		"你跟上需求了吗？",
 		"",
